@@ -1,6 +1,8 @@
 # TIC TAC TOE
 Tic-Tac-Toe Game in Python
 
+![d07c1db617a36898b5e8c71013d228d11003eb36d7150b7abfe988fe097c7d66](https://user-images.githubusercontent.com/87347502/134285947-b6aba6d2-0826-4478-b272-25fd21a970d7.png)
+
 To build tic-tac-toe game using python we require tkinter module and basic concept of python
 
 Tkinter modules is a standard graphical user interface used to render graphics.
